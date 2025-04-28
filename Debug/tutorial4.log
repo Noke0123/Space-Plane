@@ -1,0 +1,10 @@
+﻿cl : 命令列  warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+cl : 命令列  warning D9007: '/Gm' 需要 '/Zi 或 /ZI'，已忽略選項
+  tutorial4.cpp
+C:\Users\User\Desktop\新增資料夾 (2)\1130326 戴睦唐\tutorial4.cpp(37,1): warning C4005: 'MAX_VERTICES': 巨集重複定義
+C:\Users\User\Desktop\新增資料夾 (2)\1130326 戴睦唐\tutorial4.h(25,1): message : 請參閱 'MAX_VERTICES' 之前的定義
+C:\Users\User\Desktop\新增資料夾 (2)\1130326 戴睦唐\tutorial4.cpp(38,1): warning C4005: 'MAX_POLYGONS': 巨集重複定義
+C:\Users\User\Desktop\新增資料夾 (2)\1130326 戴睦唐\tutorial4.h(26,1): message : 請參閱 'MAX_POLYGONS' 之前的定義
+C:\Users\User\Desktop\新增資料夾 (2)\1130326 戴睦唐\tutorial4.cpp(132,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\新增資料夾 (2)\1130326 戴睦唐\tutorial4.cpp(987,9): warning C4101: 'l_index': 未參考的區域變數
+  tutorial4.vcxproj -> C:\Users\User\Desktop\新增資料夾 (2)\1130326 戴睦唐\Debug\tutorial4.exe
