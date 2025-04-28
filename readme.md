@@ -14,6 +14,11 @@ of cubic Bezier curve)
 7. 遊戲時間倒數結束時，停留畫面並顯示得分 
 
 
+## 執行畫面:
+
+![image](https://github.com/user-attachments/assets/48a2e9f4-4daa-4124-b126-8aca4ff124af)
+
+
 ## 執行方式:
 
 執行 /Debug/tutorial4.exe
